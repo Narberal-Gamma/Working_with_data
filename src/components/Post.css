@@ -1,0 +1,8 @@
+.single__post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid teal;
+    padding: 25px;
+    margin: 15px 0;
+}
